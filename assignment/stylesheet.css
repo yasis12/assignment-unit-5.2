@@ -1,0 +1,10 @@
+header {
+    background-color: darkslategray;
+    color: whitesmoke;
+    text-align: center;
+}
+ main {
+    background-color: lightgray;
+    background-image: url('assignment/record.png');
+    background-repeat: repeat;
+ }
