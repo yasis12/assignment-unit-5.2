@@ -3,8 +3,16 @@ header {
     color: whitesmoke;
     text-align: center;
 }
+
  main {
     background-color: lightgray;
-    background-image: url('assignment/record.png');
+    background-image: url('./record.png');
     background-repeat: repeat;
+    height: 500px;
+    padding: 1em;
  }
+
+body {
+    margin: 0px;
+}
+
